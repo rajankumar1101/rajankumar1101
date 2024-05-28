@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋🧑‍💻
+
+I am Rajan Kumar a Bca student.
 
 <!--
 **rajankumar1101/rajankumar1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
